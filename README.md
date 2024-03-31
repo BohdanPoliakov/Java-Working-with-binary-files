@@ -6,5 +6,3 @@ Explore the proposed Main.java.
 Modify the calculate and about methods as follows:
 
 - The calculate method must be entered from the keyboard with a filename (with path) and a number. The calculate method must delete from the file all numbers that are equal to the entered number. 
-
-- The about method must output the developer details (student certificate number, name, surname). 
